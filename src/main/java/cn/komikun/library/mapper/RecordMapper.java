@@ -7,6 +7,6 @@ package cn.komikun.library.mapper;
  * @modified By：
  * @version:
  */
-public class RecordMapper {
+public interface  RecordMapper {
 
 }

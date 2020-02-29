@@ -1,4 +1,4 @@
-package cn.komikun;
+package cn.komikun.library;
 
 /**
  * @author ：komikun
